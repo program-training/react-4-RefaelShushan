@@ -1,12 +1,11 @@
-import "./App.css";
-import { Example } from "./components/Example/Example";
+import Grandpa from './Grandpa/Grandpa ';
 
-function App() {
+const App = () =>{
+  
   return (
-    <>
-      <Example />{" "}
-    </>
+        <Grandpa />
   );
 }
+
 
 export default App;
