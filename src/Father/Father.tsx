@@ -26,3 +26,4 @@ const Father = () => {
 };
 
 export default Father;
+
